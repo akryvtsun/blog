@@ -21,20 +21,20 @@ avatar: /images/me.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: kontiky@gmail.com
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: akryvtsun
   instagram:
-  linkedin: 
+  linkedin: akryvtsun
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter: ankryvtsun
   stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCEG-HBBL5OYysgUriUL8ktQ # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
-  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
+  mastodon: defcon.social/@akryvtsun # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
