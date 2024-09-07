@@ -4,7 +4,7 @@ title: About Me
 permalink: /about-me/
 ---
 
-My name is Andriy Kryvtsun (Ukrainian: *Андрій Кривцун*) but people often call me Andy (sometimes even Andrzej or Andre).
+My name is **Andriy Kryvtsun** (Ukrainian: *Андрій Кривцун*) but people often call me Andy (sometimes even Andrzej or Andre).
 
 <img style="width: 40%; height: auto; float: right; margin: 5%;" src="/images/my-photo.jpg" />
 
