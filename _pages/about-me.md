@@ -32,6 +32,8 @@ and creation of distributed systems.
 I'm a [Sun Certified Programmer for the Java 2 Platform][scjp] (SCJP) 
 and [Microsoft Certified Professional](https://en.wikipedia.org/wiki/Microsoft_Certified_Professional) (MCP).
 
+![SCJP](/images/java_cert_prog.gif){:width="40%"}
+
 Here is my Stack Overflow flair:
 
 <a href="https://stackexchange.com/users/2270908"><img src="https://stackexchange.com/users/flair/2270908.png" 
