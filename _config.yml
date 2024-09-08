@@ -9,7 +9,7 @@ name: Andriy Kryvtsun
 author: Andriy Kryvtsun
 
 # Short bio or description (displayed in the header)
-description: Blog about life and computers
+description: Blog about computers and life
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/me.png
@@ -31,7 +31,7 @@ footer-links:
   rss: rss
   twitter: ankryvtsun
   stackoverflow: 
-  youtube: channel/UCEG-HBBL5OYysgUriUL8ktQ # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCsheppHCG3MaJunvEy6tpKA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
   mastodon: defcon.social/@akryvtsun # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
