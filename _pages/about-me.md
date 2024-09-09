@@ -30,9 +30,12 @@ My professional interests lie in the field of software architectures,
 and creation of distributed systems.
 
 I'm a [Sun Certified Programmer for the Java 2 Platform][scjp] (SCJP) 
+
+![SCJP](/images/scjp-logo.gif){:width="30%"}
+
 and [Microsoft Certified Professional](https://en.wikipedia.org/wiki/Microsoft_Certified_Professional) (MCP).
 
-![SCJP](/images/java_cert_prog.gif){:width="40%"}
+![MCP](/images/mcp-logo.jpg){:width="30%"}
 
 Here is my Stack Overflow flair:
 
