@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Hello, World!"
-date:   2024-08-25 19:13:45 +0300
 ---
 
 During my work and personal life I constantly face tricky tasks and interesting facts about computers. Like all of us 
