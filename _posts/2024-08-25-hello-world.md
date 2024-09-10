@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Hello, World!"
+categories: Life
 ---
+What is this site about? What motivates me to begin *yet another* technical blog?
 
 During my work and personal life I constantly face tricky tasks and interesting facts about computers. Like all of us 
 I don't have enough time to slow down and think it over during workdays. Thus, a few years ago I began taking quick 
