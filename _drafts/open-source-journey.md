@@ -12,6 +12,16 @@ Op. source = either pet-projects or contribution
 
 ## Cactoos
 
+```java
+new And(
+  n -> {
+    System.out.printf("Hello, %s!\n", n);
+    return new True().value();
+  },
+names
+).value();
+``` 
+
 ## Spring Integration
 + video
 

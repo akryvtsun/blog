@@ -1,3 +1,3 @@
 # blog
 
-Personal Technical Blog
+A personal technical blog
