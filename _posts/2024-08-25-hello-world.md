@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello, World!"
-categories: Life
+categories: life
 ---
 What is this site about? What motivates me to begin *yet another* technical blog?
 

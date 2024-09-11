@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My open source journey"
-categories: [Java, Life, Video]
+categories: [java, life, video]
 ---
 
 Op. source = either pet-projects or contribution
