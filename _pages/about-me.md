@@ -29,17 +29,23 @@ My professional interests lie in the field of software architectures,
 [Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design) (DDD), [functional programming](https://en.wikipedia.org/wiki/Functional_programming) 
 and creation of distributed systems.
 
-I'm a [Sun Certified Programmer for the Java 2 Platform](/files/scjp-cert.pdf) (SCJP) 
-
-![SCJP](/images/scjp-logo.gif){:width="30%"}
-
+I'm [Sun Certified Programmer for the Java 2 Platform](/files/scjp-cert.pdf) (SCJP), 
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/2d429667-8b07-46a7-a7a1-bbafb3b16359/linked_in_profile),
-
-![ACCP](/images/accp-logo.png){:width="30%"}
-
 and [Microsoft Certified Professional](https://en.wikipedia.org/wiki/Microsoft_Certified_Professional) (MCP).
 
-![MCP](/images/mcp-logo.jpg){:width="30%"}
+<table style="border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle; width: 30%">
+      <img src="/images/scjp-logo.gif" alt="SCJP">
+    </td>
+    <td style="border: none; vertical-align: middle; width: 30%">
+      <img src="/images/accp-logo.png" alt="ACCP">
+    </td>
+    <td style="border: none; vertical-align: middle; width: 30%">
+      <img src="/images/mcp-logo.jpg" alt="MCP">
+    </td>
+  </tr>
+</table>
 
 Here is my Stack Overflow flair:
 
