@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Happy Finder"
-categories: [macOS]
+title: "Happy Finder"
+categories: [ macOS ]
+image: /images/2024/10/31/kind-grouping.png
 ---
 
 I have been using my MacBook Pro for about a year and all these months I have constantly struggled with the Finder
@@ -22,9 +23,9 @@ file once when I didn’t see it in the first long group. So, it’s definitely 
 ![Finder Kind grouping](/images/2024/10/31/kind-grouping.png){:width="60%"}
 
 In desperation and not really expecting a solution,
-I [posted a question about my problem on Reddit](https://www.reddit.com/r/MacOS/comments/1gae76c/finder_folder_view_configuration/) 
-and — thank God! — I received an answer: it’s possible to set up Finder to behave as I need. The solution is to set the 
-folder element grouping to "Name" and check the "Keep folders on top... in windows when sorting by name" option in 
+I [posted a question about my problem on Reddit](https://www.reddit.com/r/MacOS/comments/1gae76c/finder_folder_view_configuration/)
+and — thank God! — I received an answer: it’s possible to set up Finder to behave as I need. The solution is to set the
+folder element grouping to "Name" and check the "Keep folders on top... in windows when sorting by name" option in
 Finder Settings.
 
 ![Finder Settings](/images/2024/10/31/finder-settings.png){:width="60%"}
