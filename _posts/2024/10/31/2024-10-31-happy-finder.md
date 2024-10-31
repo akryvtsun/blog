@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Happy Finder"
-categories: [ macOS ]
 image: /images/2024/10/31/kind-grouping.png
+categories: [ macOS ]
 ---
 
 I have been using my MacBook Pro for about a year and all these months I have constantly struggled with the Finder
